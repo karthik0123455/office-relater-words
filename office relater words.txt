@@ -34,3 +34,4 @@ what was discusses in the meeting
 should we wait for anyone else
 I would like to welcome  everyone to this meeting 
 do we have the agenda for the meeting 
+hide the last seen
